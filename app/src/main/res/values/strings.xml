@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Links</string>
+    <string name="home">Home</string>
+    <string name="GOOGLE">GOOGLE</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Twitter">Twitter</string>
+    <string name="Instagram">Instagram</string>
+    <string name="youtube">youtube</string>
+    <string name="linkImage">LinkImage</string>
+</resources>
